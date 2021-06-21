@@ -4,7 +4,7 @@
 * [General info](#general-info)
 * [Requirements](#technologies)
 * [Setup](#setup)
-* [Output] (#output)
+* [Output](#output)
 
 ## General info
 This file has a simulator function to generate random values of hear_rate, resp_rate and activity every second
