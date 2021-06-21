@@ -13,7 +13,8 @@ processor function. processor function code will update the pandas dataframe aft
 new second value comes to it with average heart beat, minimum heartbeat, maximum heart beat and average respiration rate will be calculated for each value.
 
 ## Requirements
-Python and pip should be installed before
+Python and pip should be installed before.
+
 Pandas - Install it by using below command
 
 ```
