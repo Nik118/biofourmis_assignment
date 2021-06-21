@@ -80,8 +80,7 @@ def derive_hourly_average_func(dataframe):
 
 
 def simulate_sensor_data_func():
-    start_time = time.time()
-    current_time = time.time()
+    start_time = current_time = 1624275000 # 21-06-2021 17:00:00 
     sensor_data_list = []
     count = 0
     total_simulation_duration = 7200 # 2 hours
